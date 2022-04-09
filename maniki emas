@@ -1,0 +1,24 @@
+
+body {
+    background-color: aqua;
+}
+<html>
+<head>
+    <title>Sahsiy portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<h1>Teamit o`quv markazi  o`quvchisining shaxsiy sayti </h1>
+<div>
+    <body >
+    <a href="#">Bosh sahifa </a>
+    <a href="#"> Aloqa</a>
+    <a href="#">Hizmatlar</a> 
+<img src="/coder img.png" alt="">
+<p>
+   <b> Salom, mening Aydarov Almaz. Men dasturlashini 2022 yilning aprel oyidan o`rganishni boshladim va birinchi saytimni yaratmoqman. Buning uchun menga  <a href= "https://teamit.uz/" > Teamit </a> o`quv markazi yordam bermoqda.
+    <b>
+</p>
+<p>
+    Bu saytda men yaratgan va yaratadigan dasturlarimni ko`rshingiz mumkin.
+</p>
+</html>
